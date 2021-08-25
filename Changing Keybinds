@@ -1,0 +1,7 @@
+First, make a copy of the file incase it breaks. this is very normal and very helpful. please do this, even if you think you know what you are doing.
+right click on the merge mansion mod
+press "edit"
+look for "set /p m="
+when you find it, look under it and see "if %M%=={random number or letter}"
+change {random number or letter} to whatever you want
+Now load the file back up and see if it worked or not.
